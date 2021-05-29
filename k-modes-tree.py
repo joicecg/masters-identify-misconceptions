@@ -4,22 +4,34 @@ from kmodes.kmodes import KModes
 import matplotlib.pyplot as plt
 import math
 
+from pythonds.trees.binaryTree import BinaryTree
+
 import parseTree as tree
 
 print(f'Reading csv...')
-prev = pd.read_csv(r'/Users/i502765/OneDrive - Associacao Antonio Vieira/UNISINOS/Mestrado - Computação Aplicada/Practice/mestrado/data/previousStep.csv', encoding='utf-8') 
-wrong = pd.read_csv(r'/Users/i502765/OneDrive - Associacao Antonio Vieira/UNISINOS/Mestrado - Computação Aplicada/Practice/mestrado/data/wrongStep.csv', encoding='utf-8') 
+prev = pd.read_csv(r'/Users/i502765/OneDrive - Associacao Antonio Vieira/UNISINOS/Mestrado - Computação Aplicada/Practice/mestrado/data/previous-step.csv', encoding='utf-8') 
+wrong = pd.read_csv(r'/Users/i502765/OneDrive - Associacao Antonio Vieira/UNISINOS/Mestrado - Computação Aplicada/Practice/mestrado/data/wrong-step.csv', encoding='utf-8') 
 print('...Complete')
 
+prevBt = {}
+wrongBt = {}
+i = 0
 for index, row in prev.iterrows():
-  print(row[0])
-  print(tree.buildParseTree(row[0]))
+    prevBt[i] = tree.buildParseTree(row[0])
+    i += 1
+i = 0
+for index, row in wrong.iterrows():
+    wrongBt[i] = tree.buildParseTree(row[0])
+    i += 1
 
-equations = pd.concat([prev, wrong], axis = 1)
-print(prev.describe())
-print(wrong.describe())
+pdf = pd.DataFrame.from_dict(prevBt, orient='index')
+wdf = pd.DataFrame.from_dict(wrongBt, orient='index')
 
-print(type(equations))
+print(pdf)
+
+equations = pd.concat([pdf, wdf], axis = 1)
+#print(prev.describe())
+#print(wrong.describe())
 
 # Clustering
 for i in range(1, 6):
