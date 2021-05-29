@@ -7,8 +7,8 @@ import math
 import parseTree as tree
 
 print(f'Reading csv...')
-prev = pd.read_csv(r'/Users/i502765/OneDrive - Associacao Antonio Vieira/UNISINOS/Mestrado - Computação Aplicada/Practice/Practice/data/new-data-set/previousStep.csv', encoding='utf-8') 
-wrong = pd.read_csv(r'/Users/i502765/OneDrive - Associacao Antonio Vieira/UNISINOS/Mestrado - Computação Aplicada/Practice/Practice/data/new-data-set/wrongStep.csv', encoding='utf-8') 
+prev = pd.read_csv(r'/Users/i502765/OneDrive - Associacao Antonio Vieira/UNISINOS/Mestrado - Computação Aplicada/Practice/mestrado/data/previousStep.csv', encoding='utf-8') 
+wrong = pd.read_csv(r'/Users/i502765/OneDrive - Associacao Antonio Vieira/UNISINOS/Mestrado - Computação Aplicada/Practice/mestrado/data/wrongStep.csv', encoding='utf-8') 
 print('...Complete')
 
 for index, row in prev.iterrows():
