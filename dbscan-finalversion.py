@@ -3,7 +3,7 @@ from sklearn.feature_extraction import DictVectorizer
 from sklearn.cluster import DBSCAN
 from sklearn.preprocessing import StandardScaler
 from ExpressionTree import ExpressionTree
-from sklearn.metrics import silhouette_score, davies_bouldin_score
+from sklearn.metrics import silhouette_score
 
 def parse_and_extract_features(equations):
     features = []
@@ -105,13 +105,12 @@ def save_clusters_by_wrong_cluster(combined, filename):
 save_clusters_by_wrong_cluster(combined, 'results/dbscan-clusters.csv')
 
 # Evaluate clustering performance
-def evaluate_clustering(X, clusters, method_name):
+def evaluate_clustering(X, clusters):
     silhouette_avg = silhouette_score(X, clusters)
-    davies_bouldin_avg = davies_bouldin_score(X, clusters)
-    return silhouette_avg, davies_bouldin_avg
+    return silhouette_avg
 
-silhouette_prev, db_kmeans_prev = evaluate_clustering(X_previous, clusters_previous, "KMeans Previous")
-silhouette_wrong, db_kmeans_wrong = evaluate_clustering(X_wrong, clusters_wrong, "KMeans Wrong")
+silhouette_prev = evaluate_clustering(X_previous, clusters_previous)
+silhouette_wrong = evaluate_clustering(X_wrong, clusters_wrong)
 
-print(f"DBSCAN Previous - Silhouette Score: {silhouette_prev}, Davies-Bouldin Index: {db_kmeans_prev}")
-print(f"DBSCAN Wrong - Silhouette Score: {silhouette_wrong}, Davies-Bouldin Index: {db_kmeans_wrong}")
+print(f"DBSCAN Previous - Silhouette Score: {silhouette_prev}")
+print(f"DBSCAN Wrong - Silhouette Score: {silhouette_wrong}")

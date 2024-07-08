@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from bkmeans import BKMeans
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import silhouette_score, davies_bouldin_score, adjusted_rand_score
+from sklearn.metrics import silhouette_score
 
 # Load data
 previous = pd.read_csv('data/tokens-previous-step.csv', encoding='utf-8')
@@ -87,13 +87,12 @@ def save_clusters_by_wrong_cluster(combined, filename):
 save_clusters_by_wrong_cluster(combined, 'results/bkmeans-clusters.csv')
 
 # Evaluate clustering performance
-def evaluate_clustering(X, clusters, method_name):
+def evaluate_clustering(X, clusters):
     silhouette_avg = silhouette_score(X, clusters)
-    davies_bouldin_avg = davies_bouldin_score(X, clusters)
-    return silhouette_avg, davies_bouldin_avg
+    return silhouette_avg
 
-silhouette_prev, db_kmeans_prev = evaluate_clustering(X_previous, clusters_previous, "KMeans Previous")
-silhouette_wrong, db_kmeans_wrong = evaluate_clustering(X_wrong, clusters_wrong, "KMeans Wrong")
+silhouette_prev = evaluate_clustering(X_previous, clusters_previous)
+silhouette_wrong = evaluate_clustering(X_wrong, clusters_wrong)
 
-print(f"BKMeans Previous - Silhouette Score: {silhouette_prev}, Davies-Bouldin Index: {db_kmeans_prev}")
-print(f"BKMeans Wrong - Silhouette Score: {silhouette_wrong}, Davies-Bouldin Index: {db_kmeans_wrong}")
+print(f"BKMeans Previous - Silhouette Score: {silhouette_prev}")
+print(f"BKMeans Wrong - Silhouette Score: {silhouette_wrong}")
