@@ -1,0 +1,1541 @@
+Cluster 90:
+previous equation,wrong equation,id,cluster
+x + b = aa,x = aa + b,1,90
+x + b = aa,x = aa + b,2,90
+x - bb = - a,x = a + bb,16,90
+x - b = - aa,x = aa + b,19,90
+x + b = aa,x = aa + b,21,90
+x + b = aa,x = aa + b,22,90
+x + b = aa,x = aa + b,23,90
+x - b = - aa,x = aa + b,24,90
+x + bb = aa,x = aa + bb,29,90
+x + b = aa,x = aa + b,35,90
+x + b = a,x = a + b,39,90
+x + bb = aa,x = aa + bb,42,90
+x + bb = aa,x = aa + bb,45,90
+x + bb = aa,x = aa + bb,46,90
+x + b = aa,x = aa + b,48,90
+x + bb = aa,x = aa + bb,276,90
+x + b = aa,x + b = a,286,90
+x - b = - aa,x = aa + b,293,90
+- x - bb = aa,x + bb = aa,311,90
+x + bb + c = - aa,x + bb = aa,329,90
+x + bb + c = - aa,x + bb = aa,330,90
+x + b = aa,x = aa + b,337,90
+x + b = aa,x = aa + b,338,90
+x + b = aa,x = aa + b,339,90
+x = aa + bb,x = aa + bb,412,90
+x + b = aa,x = aa + b,415,90
+x - b = - aa,x = aa + b,424,90
+x + b = a,x = a + b,737,90
+x + b = a,x = a + b,738,90
+x + b = aa,x = aa + b,749,90
+x + b - c = aa - b,x + z = a,785,90
+x - bb = - aa,x = aa + bb,869,90
+x + b = aa,x = a + bb,922,90
+x + b = aa,x = a + bb,923,90
+x + b = aa,x = a + bb,924,90
+x + b = aa,x = a + bb,925,90
+ax + bb = aa,ax = aa + bb,980,90
+aa + bb - cx = - ax - b - cc,aaa + bx = aa,1026,90
+x = aa - b,x = a + bb,1033,90
+( aax + bbb ) / ( cc ) = ( x ) / ( b ),ax = aax + bbb,1065,90
+x + b = a,x = a + b,1084,90
+x + b = aa,x = aa + b,1092,90
+ax + bb = aa,ax = aa + bb,1111,90
+
+
+Cluster 86:
+previous equation,wrong equation,id,cluster
+x = aa - b,x = a,3,86
+x = - a - b,x = a,6,86
+x = - a - b,x = a,7,86
+x = - aa - b,x = aa,8,86
+x = - aa - b,x = aa,9,86
+x = - aa - b,x = a,12,86
+x = - aa + b,x = aa,20,86
+x = - aa + b,x = a,26,86
+x + b = - a,x = a,31,86
+x = aa - b,x = aa,38,86
+x = a - b - z,x = aa,41,86
+x + b = aa,x = aa,44,86
+x = aa - bb,x = aa,47,86
+x + bb = aa,x = a,50,86
+( aax ) / ( bb ) = - ( aa ) / ( bb ),x = a,57,86
+x - b = a,x = z,59,86
+x = aa * bb,x = aaaa,63,86
+x + b = a,x = a,65,86
+x + b = a,x = a,66,86
+x + bb = aa,a = x,67,86
+x + bb = aa,x = aa,68,86
+x - b = aa,x = a,69,86
+x + b = aa,x = a,80,86
+x = aa - bb,x = aa,82,86
+x = aa - bb,x = aa,83,86
+x = aa - bb,x = aa,84,86
+x - b = aa,x = aa,88,86
+x - b = aa,x = aa,90,86
+x - b = aa,x = a,91,86
+x - b = aa,x = a,92,86
+x + b = - a,x = a,95,86
+x + b = - a,x = a,97,86
+x + b = - aa,x = aa,98,86
+x - b = aa,x = aa,108,86
+x + b = - a,x = a,114,86
+x + bb = - aa,x = aa,115,86
+x - bb = - aa,x = aa,116,86
+x - bb = a,x = a,121,86
+x + bb = - aa,x = z,122,86
+x + bb = - aa,x = aa,126,86
+x + bb = - aa,x = aa,128,86
+x - b = - aa,x = aa,133,86
+x - bb = - aa,x = a,135,86
+x - b = - aa,x = aa,136,86
+x + b = aa,x = aa,137,86
+x + b = aa,x = aa,139,86
+x + bb = - aa,x = z,141,86
+x + bb = - aa,x = a,142,86
+x - b = aa,x = aa,144,86
+x - b = - aa,x = aa,145,86
+x + b = - aa,x = aa,151,86
+x - b = - aa,x = a,152,86
+x - bb = - aa,x = aa,153,86
+- x + b = a,x = a,155,86
+x - b = a,x = a,172,86
+x + b = aa,x = aa,173,86
+x - b = aa,x = a,177,86
+x - b = - aa,x = aa,183,86
+x - bb = - aa,x = a,187,86
+( x ) / ( b ) = aa,x = a,192,86
+- ( x ) / ( bb ) = - aa,x = aaa,196,86
+x - bb = a,x = a,199,86
+x + bb = - aa,x = aa,200,86
+x - bb = - aa,x = aa,201,86
+x + bbb = aa,x = a,203,86
+- x - b = aa,x = a,204,86
+- x - b = aa,x = aa,206,86
+- x - b = aa,x = aa,207,86
+- x + b = - aa,x = aa,208,86
+- x + b = - aa,x = aa,209,86
+- x + bb = - aa,x = a,211,86
+- x + bb = - aa,x = a,212,86
+- x - bbb = - aaa,x = aaa,214,86
+- x - bbb = - aaa,x = aaa,216,86
+- x - bbb = - aaa,x = aaa,217,86
+- x - bbb = - aaa,x = aaa,218,86
+- x - bbb = - aaa,x = aaa,219,86
+- x - bbb = - aaa,x = aaa,220,86
+- x - bbb = - aaa,x = aaa,221,86
+- x - bbb = - aaa,x = aaa,222,86
+- x - bbb = - aaa,x = aaa,223,86
+- x - bbb = - aaa,x = aaa,224,86
+- x - bbb = - aaa,x = aaa,225,86
+- x - bbb = - aaa,x = aaa,226,86
+- x - bbb = - aaa,x = aaa,227,86
+- x - bbb = - aaa,x = aaa,228,86
+- x - bbb = - aaa,x = aaa,229,86
+- x - bbb = - aaa,x = aaa,230,86
+- x - bbb = - aaa,x = aaa,231,86
+- x - bbb = - aaa,x = aaa,232,86
+- x - bbb = - aaa,x = aaa,233,86
+- x - bbb = - aaa,x = aaa,234,86
+- x - bbb = - aaa,x = aaa,235,86
+- x - bbb = - aaa,x = aaa,236,86
+- x - bbb = - aaa,x = aaa,237,86
+- x - bbb = - aaa,x = aaa,238,86
+- x - bbb = - aaa,x = aaa,239,86
+- x - bbb = - aaa,x = aaa,240,86
+- x - bbb = - aaa,x = aaa,241,86
+x + bb = aa,x = aa,246,86
+x = aa - b,x = aa,248,86
+x + b = - a,x = a,249,86
+- x - b = - aa,x = aa,252,86
+- x + bb = - aaa,x = aaa,254,86
+x = - aa + b,x = a,257,86
+x + bb = - aa,x = z,259,86
+- x + b = aa,x = a,264,86
+- x - b = aa,x = aa,265,86
+- x - b = aa,x = a,266,86
+x - bb = - a,x = aa,267,86
+- x + bb = - aa,x = aa,269,86
+- x + bb = - aa,x = aa,270,86
+- x + bb = - aa,x = aa,272,86
+- x + bb = - aa,x = aa,273,86
+x - bb = - aa,x = aa,274,86
+ax - b = ax + b,ax = a,277,86
+x + b = aa,x = aa,281,86
+x + b = aa,x = aa,283,86
+x + b = aa,x = a,288,86
+x - b = - aa,x = a,292,86
+x - b = - aa,x = aa,294,86
+x - b = - aa,x = aa,295,86
+x + bb = aa,x = aa,296,86
+x + bb = aa,x = aa,297,86
+- x = a,x = a,298,86
+x * x = aaa,x = a,307,86
+x = - aa - b,x = aa,308,86
+- x - b = a,x = a,309,86
+- x - b = a,x = a,310,86
+x - b = aa,x = aa,314,86
+x + bb = aa,x = aa,316,86
+x + bb = aa,x = aa,317,86
+x + bb = aaa,x = aaa,318,86
+x + bbb = aaa,x = aaa,319,86
+x + bbb = aaa,x = aa,320,86
+x + bbb = aaa,x = aaa,321,86
+x + bbb = aaa,x = aaa,331,86
+x + bbb = aaa,x = aaa,332,86
+x = a * b - c,x = aa,335,86
+x = a * b - c,x = a,336,86
+x = aa - b,x = a,340,86
+x = - ( aa ) / ( b ),x = a,343,86
+x = - ( aa ) / ( b ),x = a,344,86
+x + b = aa,x = aa,346,86
+x = aa - bb,x = aa,347,86
+x + b = a,x = aa,348,86
+x + b = aa,x = aa,349,86
+x = aa - z,x = aa,350,86
+x = aa - bb,x = aa,351,86
+x = aa - bb,x = aa,352,86
+x + b = a,x = aa,353,86
+x = aa - bb,x = aa,354,86
+x = - aa + b,x = a,358,86
+x + b = - a,x = a,362,86
+x + b = - a,x = a,363,86
+x + b = - aa,x = aa,364,86
+x + b = - aa,x = aa,365,86
+x = aa - bb,x = aa,366,86
+- x = aa - bb,x = aa,368,86
+x - b = - aa,x = aa,372,86
+x - b = - aa,x = aa,374,86
+x - bb = - a,x = z,376,86
+x - b = - aa,x = aa,382,86
+x - b = - aa,x = aa,385,86
+x - b = aa,x = aa,391,86
+aax + bb = - ax + b,aax = aa,395,86
+ax - ( - bx - c ) = - ax - ( bx + c ),x = z,396,86
+ax - ( - bx - c ) = - ax - ( bx + c ),x = a,397,86
+ax = - aa,x = a,398,86
+x = a + b,x = a,401,86
+x + b = aa,x = aa,402,86
+x - bb = a,x = aa,403,86
+x = aa - bb,x = aa,406,86
+x = - a - bb,x = aa,411,86
+x = - a - bb,x = aa,413,86
+x = - aa + b,x = a,417,86
+x = - aa + b,x = aa,422,86
+x = - aa - bb,x = z,423,86
+x = aa - bb,x = a,426,86
+x = aa - bb,x = a,427,86
+x = - aa + b,x = aa,428,86
+x - b = - aa,x = a,432,86
+- x = aa,x = aa,433,86
+- x = aa,x = aa,434,86
+- x = aa,x = aa,438,86
+- x + b = aa,x = a,440,86
+x = aa - b,x = a,442,86
+x = aa - b,x = a,443,86
+x = aa - b,x = a,444,86
+x = aa - b,x = a,445,86
+x = aa - b,x = a,446,86
+x = aa - b,x = a,447,86
+x = aa - b,x = a,449,86
+x = aa - b,x = a,451,86
+x = aa - bb,x = aa,455,86
+x = aa + b,x = a,456,86
+x = - aa - bb,x = aa,457,86
+- x = - aa - bb,x = aaa,458,86
+- x = - aaa + bbb,x = aaa,459,86
+- x = - aaa + bbb,x = aaa,460,86
+x = - aa - bb,x = aa,461,86
+x = ( a ) / ( b ),x = a,466,86
+x + b = - a,x = a,470,86
+x + b = - a,x = a,471,86
+x + b = - a,x = a,472,86
+x + bbb = aa,x = a,473,86
+- x + bb = aa,x = aa,474,86
+x + bbb = aa,x = a,475,86
+- x - bb = aa,x = aa,476,86
+- x - bb = aa,x = aa,477,86
+x + bbb = aa,x = a,480,86
+- x + bb = aa,x = aa,481,86
+- x - bb = aa,x = aa,482,86
+ax = x,x = a,488,86
+x + bbb = aa,x = a,490,86
+- x + bb = aa,x = aa,491,86
+- x - bb = aa,x = aa,492,86
+- x - bb = aa,x = aa,493,86
+x + bbb = aa,x = a,494,86
+x + bbb = aa,x = a,495,86
+- x + bb = aa,x = aa,496,86
+- x - bb = aa,x = aa,497,86
+- x - bb = aa,x = aa,498,86
+x + bbb = aa,x = a,499,86
+( x ) / ( b ) * c = aa * b,x = aaa,502,86
+( x ) / ( b ) * c = aa * b,x = aaa,503,86
+x - b = aa,x = aa,507,86
+x + b = - a,x = a,516,86
+x = - aa - b,x = aa,518,86
+x + bb = - aa,x = z,520,86
+x - bb = - aa,x = a,524,86
+x - bb = - aa,x = a,525,86
+- x + bb = aa,x = aa,526,86
+x + bbb = aa,x = aaa,527,86
+- x - bbb = - aaa,x = aa,528,86
+x + bb = - aa,x = z,529,86
+x + bb = aaa,x = aaa,534,86
+x - b = aa,x = aa,535,86
+- ax = aa,x = a,537,86
+- ax = aa,x = a,538,86
+- aax = - a,x = a,539,86
+- ax = - aa,x = aa,540,86
+( x ) / ( bb ) = - aa,x = aaa,549,86
+- ( x ) / ( bb ) = - aa,x = aaa,551,86
+ax - bb + ccx = aaa,aax = aaa,565,86
+ax - bb + ccx = aaa,aax = aaa,566,86
+ax = - a,x = a,579,86
+- ax + b = ax - b,x = a,580,86
+- ax + b = ax - b,x = a,581,86
+aa - ( - bb + cx ) = - ( ax + b ) - cc,aaa = ax,650,86
+( x ) / ( b ) = - aa,x = aaa,651,86
+( x ) / ( bb ) = - aa,x = aaa,652,86
+ax + bb = aa,x = a,654,86
+ax + b = ax + b,x = a,656,86
+ax - b = ax - b,x = a,659,86
+( x ) / ( b ) = - aa,x = aaa,663,86
+zx = zx,x = aa,700,86
+zx = zx,x = z,701,86
+- ax = aaa,x = aaa,721,86
+x = ( aaa ) / ( - b ),x = aa,722,86
+x = - ( aaa ) / ( bb ),x = aa,724,86
+x = ( aa ) / ( b ),x = a,727,86
+a * ( x - c ) / d - x / f = ( x + b ) / ( c ),x = aaa,728,86
+- x = aa,x = aa,729,86
+x - bb = aa,x = a,730,86
+x + b = - a,x = a,731,86
+- x - b = a,x = z,735,86
+aax + b = aax + bb,ax = aa,743,86
+x + b = - a,x = a,745,86
+( ax + bb ) / ( ccc ) = ( x ) / ( bbb ),ax = aa,751,86
+ax = aa + bb,ax = aa,753,86
+x = ( aa ) / ( b ),x = a,754,86
+x = ( z ) / ( bbb ),x = aa,755,86
+x = ( z ) / ( bbb ),x = aaa,756,86
+x + b = a,x = a,761,86
+ax - bx = a - b,x = a,767,86
+ax - bx = a - b,x = a,768,86
+x = ( aaa ) / ( b ),x = aa,770,86
+x = aa - b,x = a,781,86
+x = aa - b,x = a,782,86
+x + b - cx + d = - ax + b - cx + d,aax = aa,784,86
+x + b = aa,x = a,787,86
+x + b = aa,x = a,790,86
+x + bb = aa,x = aa,791,86
+x - b = a,x = a,792,86
+x - bb = - a,x = a,793,86
+x + b = - aa,x = aa,795,86
+x + bb = - aa,x = z,797,86
+x + bbb = aa,x = a,798,86
+x + b = aa,x = a,799,86
+x - b = aa,x = aa,801,86
+x = ( aaa ) / ( bb ),x = aa,806,86
+ax + b = a,x = a,811,86
+- ax - bb = aa,x = a,821,86
+x - b = - aa,x = a,823,86
+x - b = - aa,x = a,824,86
+x - b = - aa,x = a,825,86
+x - b = - aa,x = aaa,826,86
+ax + b = aa,ax = aa,828,86
+ax + bx = z - b - c - dd,aax = a,835,86
+x + b - c = aa - b,x = a,839,86
+x = a - b,x = a,841,86
+x = a - b,x = a,842,86
+x + bb = aa,x = aa,846,86
+x + bb = aa,x = aa,849,86
+x - b = aa,x = a,852,86
+x - b = aa,x = a,853,86
+x - b = aa,x = z,854,86
+x + bb = aa,x = a,857,86
+x - bb = aa,x = aa,859,86
+x + bb = - aa,x = z,860,86
+x - bb = aa,x = aa,862,86
+x - bb = aa,x = a,864,86
+x + b = aa,x = aa,876,86
+x + b = aa,x = aaa,877,86
+x - b = aa,x = aa,878,86
+x - b = aa,x = aa,879,86
+x - b = - aa,x = a,880,86
+x = aa + b,x = aa,881,86
+x = aa + b,x = aa,882,86
+x = aa + b,x = aa,883,86
+x + z - z = aa - z,x = aa,884,86
+x - bb = - aa,x = aa,885,86
+x + z - z = aa - z,x = aa,886,86
+x = aa - z,x = aa,887,86
+x = aa - z,x = aa,888,86
+x + bbb = aa,x = a,889,86
+- x + b - c = a - b,x = a,890,86
+x = aa - b,x = a,891,86
+ax = aa,x = aa,893,86
+x = - ( aa ) / ( bb ),x = a,895,86
+x = ( aaa ) / ( b ),x = aa,898,86
+aax = - aaa,x = aa,899,86
+( x ) / ( bb ) = - aa,x = aaa,902,86
+- ( x ) / ( bb ) = - a,x = aa,904,86
+- ( x ) / ( bb ) = - a,x = aa,905,86
+- ( x ) / ( bb ) = - a,x = aa,906,86
+aaax + bbb = aaa,x = a,907,86
+- ax + bb = aa,x = aa,910,86
+- ax + bb = - aaa,x = aa,911,86
+- ax - bb = - ax + bb,x = aa,912,86
+ax + b = a,x = a,914,86
+aax - b + c = aa + bx,x = a,920,86
+x + b = a,x = a,927,86
+x + b = aa,x = aa,928,86
+x - b = a,x = a,930,86
+x - b = a,x = a,931,86
+x - b = a,x = a,932,86
+x - b = a,x = a,933,86
+x - b = aa,x = aa,934,86
+x - bb = aa,x = a,935,86
+x + b = - a,x = a,936,86
+x + b = - aa,x = aa,938,86
+x + b = - aa,x = aa,939,86
+x + bb = - aa,x = z,942,86
+x - b = - aa,x = aa,945,86
+a * ( bx + c ) = a * ( bx + cc ),x = a,948,86
+ax + bx + cx - x + ex = a - bb + c,aax = aa,950,86
+ax + bx + cx - x + ex = a - bb + c,aax = aa,954,86
+ax + b - ( cx - d ) + ( - ex - f ) = - ( - ax + bb ),x = a,956,86
+ax + b - ( cx - d ) + ( - ex - f ) = - ( - ax + bb ),x = a,958,86
+ax + b - ( cx - d ) + ( - ex - f ) = - ( - ax + bb ),x = a,960,86
+ax + b - cx + d - ex - f = ax - bb,x = a,961,86
+x - b = aa,x = a,962,86
+x + b = - a,x = a,963,86
+x + bb = - aa,x = z,969,86
+x + bb = - aa,x = aa,970,86
+- ax + bb = - aaa,ax = aaa,975,86
+ax = aaa,x = aa,978,86
+ax = aa + bb,ax = aaa,981,86
+( aa ) / ( bb ) = ( x ) / ( bb ),ax = aa,986,86
+ax + b = ax + bb,x = aaa,989,86
+ax + b = ax + bb,x = aaa,990,86
+ax + b = ax + bb,x = aaa,991,86
+x = ( aaa ) / ( b ),x = aa,1003,86
+x = ( aaa ) / ( b ),x = aa,1004,86
+x = ( aaa ) / ( b ),x = aa,1005,86
+aax + bbx + cx - d = a - b,aax = a,1008,86
+ax = aaa,x = aa,1009,86
+ax = aaa,x = aa,1010,86
+x = ( aaa ) / ( b ),x = aa,1011,86
+x = ( aaa ) / ( b ),x = a,1012,86
+- aax - bb = aa,aax = aa,1014,86
+x + b - cx + d = - ax + b - cx + d,aax = aa,1015,86
+aax + b = aax - bb,aax = aa,1018,86
+aax + b = aax - bb,aax = aa,1019,86
+ax + b = - ax - b,aax = a,1022,86
+ax - bb + c = aa,ax = a,1028,86
+aa - ( b ) / ( c ) + x = aaa + bbx,aaaaa = x,1029,86
+x = aa - bb,x = aaa,1035,86
+x = aa - bb,x = aaaa,1036,86
+x = a - b,x = aa,1037,86
+x = a - b,x = aa,1038,86
+x = a - b,x = a,1045,86
+x + b = - a,x = a,1048,86
+x + b = - a,x = a,1049,86
+x - bb = - aa,x = aa,1051,86
+a * ( - b - x ) / ( d ) = a * ( b - x ) / ( d ),x = a,1056,86
+a * ( - b - x ) / ( d ) = a * ( b - x ) / ( d ),x = a,1057,86
+ax = aax + bbb,ax = aaa,1066,86
+ax = ax + b,zx = ax,1068,86
+( aax ) / ( bb ) = ( ax ) / ( b ) - cccc,aaaaax = a,1069,86
+aax = aa,x = aa,1076,86
+x + b = a,x = a,1083,86
+x + b = a,x = aaa,1085,86
+x + b = a,x = aa,1086,86
+x + b = a,x = aa,1087,86
+ax = aa - bb,ax = aa,1089,86
+- aaa + bbbx + ( c ) = aax - bb,aaax = aaa,1095,86
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),a = x,1096,86
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),ax = aa,1108,86
+x + b = a,x = a,1109,86
+x + b = a,x = a,1110,86
+ax + bb = aa,x = a,1112,86
+- aa + ( bx + c ) / ( d ) = ( aax - bbb ) / ( c ) - d,x = aa,1114,86
+- aaa + ( bbbx + c ) / ( d ) = a * ( bx - c ) / ( d ),x = aa,1115,86
+x + ( bx + c ) = aa,x = a,1116,86
+( ax ) / ( b ) = ( ax - bb ) / ( c ),ax = a,1124,86
+( ax ) / ( b ) = ax - bb,x = aa,1125,86
+( ax ) / ( b ) = ax - bb,x = a,1126,86
+( - aax ) / ( b ) = ( aax - b ) / ( - c ),aaax = aaa,1127,86
+( - aax ) / ( b ) = ( aax - b ) / ( - c ),aax = aa,1128,86
+x + bb = aa,x = aa,1133,86
+x + z = aa - b,x = a,1134,86
+x - b = aa,x = aa,1135,86
+x - b = aa,x = aa,1136,86
+( - ax + bb ) / ( c ) = ( aaax ) / ( b ) + ( cx ) / ( dd ) - ( e ) / ( ff ),x = aa,1137,86
+ax - bb = aa,ax = aa,1141,86
+x = aa - b,x = aa,1143,86
+x - b = a,x = a,1144,86
+x + bb = aa,x = aa,1145,86
+x + bb = aa,x = aa,1146,86
+x - bb = - aa,x = a,1147,86
+- x - bb = - aa,x = aa,1150,86
+- x - bb = - aa,x = aa,1151,86
+x - bb = aa,x = z,1153,86
+- x - bb = aa,x = aa,1154,86
+- x + bb = aa,x = aa,1155,86
+- x + b = - aa,x = aa,1156,86
+- x + bb = - aaa,x = aaa,1157,86
+- x - bbb = - aaa,x = aaa,1158,86
+x = a + b,x = a,1160,86
+- x - b = aa,x = aa,1167,86
+- x + bb = - aaa,x = aaa,1168,86
+
+
+Cluster 55:
+previous equation,wrong equation,id,cluster
+x + b = - a,x = - a + b,4,55
+x + b = - aa,x = - aa + b,11,55
+x + bb = - aa,x = - aa + bb,14,55
+x + bb = aa,x = - aa + bb,49,55
+x + b = - aa,x = - aa + b,72,55
+- x - bbb = - aaa,x = - aaa + bbb,381,55
+x - bb = - aa,x = - aa + bb,430,55
+x + b = - aa,x = - aa + b,517,55
+x - bb = - a,x = - aa + b,865,55
+x - b = - aa,x = - aa + b,873,55
+x + bb = - a,x = - a + bb,967,55
+- ax + b = ax,- ax + bx = a,1078,55
+- ax + b = ax,- ax + bx = a,1079,55
+x + b = aa,x = - aa + b,1093,55
+x + b = aa,x = - aa + b,1094,55
+
+
+Cluster 39:
+previous equation,wrong equation,id,cluster
+x = - a - b,x = - a,5,39
+x + bb = - aa,x = - aa,13,39
+x - bb = - a,x = - aa,17,39
+x + b = - a,x = - a,30,39
+x + b = - aa,x = - a,32,39
+x - bb = - a,x = - a,33,39
+x + b = - a,x = - a,94,39
+x + b = - aa,x = - a,100,39
+x + b = - aa,x = - a,101,39
+x + b = - aa,x = - a,102,39
+x + b = - aa,x = - a,104,39
+x + b = - aa,x = - a,105,39
+x + b = - aa,x = - a,106,39
+x - b = - aa,x = - aa,107,39
+x + b = - a,x = - a,109,39
+x + b = - aa,x = - a,110,39
+x + b = - aa,x = - a,111,39
+x - bb = - a,x = - a,112,39
+x + b = - aa,x = - a,113,39
+x + b = - aa,x = - aa,117,39
+x - bb = - aa,x = - aa,118,39
+x - bb = - aa,x = - a,119,39
+x - bb = a,x = - a,120,39
+x + b = - aa,x = - a,123,39
+x + b = - aa,x = - a,124,39
+x - bb = - aa,x = - aa,125,39
+x - bb = - aa,x = - aa,127,39
+x - bb = - aa,x = - aa,129,39
+x - bb = - aa,x = - aa,130,39
+x - bb = - aa,x = - aa,131,39
+x - bb = - aa,x = - aa,132,39
+x - bb = - aa,x = - aa,134,39
+x + b = aa,x = - aa,138,39
+x + bb = aa,x = - aa,140,39
+x - b = aa,x = - aa,143,39
+x - b = - aa,x = - aa,146,39
+x - b = - aa,x = - aa,147,39
+x - b = - aa,x = - aa,149,39
+x - bb = - aa,x = - aa,156,39
+x - bb = - aa,x = - aa,157,39
+x - b = - aa,x = - aa,180,39
+x - bb = - a,x = - a,181,39
+x - b = - aa,x = - aa,182,39
+x - b = - aa,x = - aa,184,39
+- ( x ) / ( bb ) = - aa,x = - aaa,195,39
+x - bb = a,x = - a,198,39
+x - bb = - aa,x = - aa,202,39
+- x - b = aa,x = - a,205,39
+- x + bb = - aa,x = - a,210,39
+- x - b = - aa,x = - aa,213,39
+- x - bbb = - aaa,x = - aaa,215,39
+x - bb = - aa,x = - aaa,253,39
+x = - aa + b,x = - aa,256,39
+x - bb = - a,x = - aa,268,39
+- x + bb = - aa,x = - aa,271,39
+x - bb = - aa,x = - aa,275,39
+x - bb = - aa,x = - aa,282,39
+x + bb = - aa,aax = - aaa,313,39
+x - bb = - aaa,x = - aaa,322,39
+x - b = - aa,x = - aa,323,39
+x - b = - aa,x = - aa,324,39
+x - b = - aa,x = - aa,325,39
+x - b = - aa,x = - aa,326,39
+x - b = - aa,x = - aa,327,39
+x - b = - aa,x = - aa,328,39
+x = - aa - b,x = - aa,355,39
+x = - aa + b,x = - a,356,39
+x = - aa + b,x = - a,357,39
+x = - aa - bb,x = - aa,359,39
+x = - aa + bb,x = - a,360,39
+x = - aa + bb,x = - a,361,39
+x + b = - a,x = - a,367,39
+x + bb = aa,x = - aa,369,39
+x + bb = - aa,x = - aa,371,39
+x - b = - aa,x = - aa,373,39
+x - bb = - a,x = - aa,377,39
+x - bb = - a,x = - a,378,39
+x - bb = - aa,x = - a,379,39
+- x = - aaa + bbb,- x = a,383,39
+- x = - aaa + bbb,- x = a,384,39
+x - bb = - aa,x = - aa,386,39
+x = - aa + bb,x = - a,387,39
+- x = aa - b,- x = aa,388,39
+x - b = aa,x = - aa,389,39
+x - b = aa,x = - aa,390,39
+x + bb = aa,x = - aa,392,39
+x - bb = a,x = - a,393,39
+x - bb = a,x = - aa,394,39
+x = - aa - b,x = - aa,420,39
+- x = a + b,- x = z,439,39
+- x = aa - b,- x = a,448,39
+- x = aa + bb,- x = aa,450,39
+- x = aa + bb,x = - aa,452,39
+- x = aa + bb,x = - aa,462,39
+x = ( a ) / ( bb ),x = - a,463,39
+x = ( aa ) / ( - b ),x = - aa,468,39
+x = - aa * bb,x = - aaa,483,39
+aax = - aa,x = - a,500,39
+18x = - aa,x = - a,501,39
+- x + bb = aa,x = - aa,504,39
+- x + bb = aa,x = - aa,505,39
+- x + b = aa,x = - aa,506,39
+x + bb = - aa,x = - aa,508,39
+- ax = aa,x = - a,509,39
+- ax = - aa,x = - a,510,39
+( x ) / ( b ) = - aa,x = - aaa,512,39
+( x ) / ( b ) = - aa,x = - aaa,513,39
+( x ) / ( bb ) = - aa,x = - aaa,514,39
+x + bb = - aa,x = - aa,519,39
+x + b = aa,x = - aa,521,39
+- x + b = aa,x = - aa,530,39
+- x = - ( aaa ) / ( bb ),x = - aa,544,39
+- ( x ) / ( b ) = aa,x = - aaa,545,39
+- ax - bb = aa,x = - aa,547,39
+ax = - aa,x = - a,548,39
+- ( x ) / ( b ) = aa,x = - aaa,550,39
+- ( x ) / ( bb ) = aa,x = - aaa,552,39
+- x = aa,x = - aa,558,39
+ax = - aa,x = - a,559,39
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax = - aa,594,39
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax = - aa,595,39
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax = - aa,596,39
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax = - aa,597,39
+- ( x ) / ( bb ) = - aa,x = - aaaa,653,39
+ax - b = ax - b,x = - a,657,39
+ax - b = ax - b,x = - a,658,39
+- ax + bb = ax - b,x = - aa,660,39
+- ax + bb = ax - b,x = - a,661,39
+aax - b - cx = ax - b - cc,x = - aa,664,39
+aax - b - cx = ax - b - cc,x = - aa,665,39
+aax - b - cx = ax - b - cc,x = - aa,666,39
+a * ( x - c ) + d * ( x + f ) = a * ( x + c ),x = - a,670,39
+( x + bb ) - ( - x - dd ) = z,ax = - aa,705,39
+( x + bb ) - ( - x - dd ) = z,x = - aa,706,39
+aa - ( - bb + cx ) = - ( ax + b ) - cc,x = - aa,716,39
+- x = - aa + b,- x = aa,718,39
+aax = - aaa,x = - aaa,723,39
+( x ) / ( bb ) = - aa,x = - aaa,725,39
+- ( x ) / ( b ) = aa,x = - a,726,39
+x + b = - a,x = - a,732,39
+x + bb = - a,x = - aa,734,39
+- x - bb = aa,x = - aa,736,39
+x = - ( aa ) / ( b ),x = - a,742,39
+x + b = - a,x = - a,744,39
+x + b = - aa,x = - aa,746,39
+x + b = - aa,x = - aa,747,39
+ax = aa - bb,ax = - aa,752,39
+- ax = aa - bb,- ax = aa,757,39
+- ax = aa + b,- ax = aa,759,39
+- ax = aa + b,- ax = aa,760,39
+x = ( aa ) / ( - b ),x = - a,771,39
+ax = - aa,x = - aa,786,39
+x + b = aa,x = - a,788,39
+x + b = - aa,x = - aa,794,39
+x + b = - aa,x = - aa,796,39
+x - b = a,x = - a,800,39
+x - b = aa,x = - aa,802,39
+- ax = - a + b,x = - a,807,39
+- ax = z,x = - a,809,39
+x = ( z ) / ( - b ),x = - a,810,39
+aax - b = aa,x = - a,813,39
+ax - x + c = a - x + c,x = - a,817,39
+- ax - bb = aa,x = - a,819,39
+x + b = - aa,x = - aa,822,39
+ax + bx = z - b - c - dd,aax = - a,836,39
+ax + bx + c = - ax - bx - c,x = - a,838,39
+aa - b = x,- x = aa,843,39
+x + bb = - a,x = - aa,855,39
+x + bb = - a,x = - aa,856,39
+x + bb = - aa,x = - aa,858,39
+x - bb = - a,- x = aa,866,39
+x = aa - b,x = - a,867,39
+x = - aa + bb,x = - a,870,39
+- x = - a,x = - a,871,39
+- x = - a,x = - a,872,39
+x = - aa + b,x = - aa,874,39
+- x = - aaa + bbb,- x = aa,892,39
+- ax = - aa,x = - aa,897,39
+( x ) / ( bb ) = - aa,x = - aaa,900,39
+( x ) / ( bb ) = - aa,x = - aaa,903,39
+- ax + bb = aa,x = - aa,908,39
+- ax + bb = aa,x = - aa,909,39
+- ax - bb = - ax + bb,x = - aa,913,39
+x - b = a,x = - a,929,39
+x + b = - aa,x = - aa,937,39
+x + b = - aa,x = - aa,940,39
+x + bb = - a,x = - aa,941,39
+x - b = - aa,x = - aa,944,39
+ax - ( - bx - c ) = - ax - ( bx +  c ),x = - a,946,39
+ax + bx + cx - x + ex = a - bb + c,aax = - aa,951,39
+ax + bx + cx - x + ex = a - bb + c,aax = - aa,952,39
+ax + bx + cx - x + ex = a - bb + c,aax = - aa,953,39
+- ax - bx = - a - b,- ax = z,955,39
+ax + b - ( cx - d ) + ( - ex - f ) = - ( - ax + bb ),x = - a,957,39
+x + b = - a,x = - a,964,39
+x + b = - a,x = - a,965,39
+x + b = - a,x = - a,966,39
+x + bb = - a,x = - a,968,39
+x - bb = - aa,x = - aa,971,39
+- ax + bb = - aaa,ax = - aaa,976,39
+- ax = - aaa - bb,- ax = aaa,995,39
+x = - ( aaa ) / ( - b ),x = - aaa,996,39
+x = - ( aaa ) / ( - b ),x = - aaa,999,39
+aax + b = aax - bb,aax = - aaa,1020,39
+x + b = - a,x = - a,1047,39
+x - bb = - aa,x = - aa,1050,39
+( - aax ) / ( b ) = ( z ) / ( bbbb ),- aax = a,1072,39
+( - x + b ) / ( c ) = ( ax ) / ( bb ),- axa = ax,1077,39
+- x + bb = - aa,x = - aa,1148,39
+- x + bb = - aa,x = - aa,1149,39
+- x + b = aa,x = - aa,1152,39
+x = - aa + b,x = - aa,1161,39
+x = - aa + b,x = - aa,1162,39
+x = aa - bb,x = - aa,1163,39
+x + bb = - aa,x = - aa,1165,39
+x - bb = aa,x = - aa,1166,39
+x = ( a ) / ( bb ),x = - a,1169,39
+
+
+Cluster 43:
+previous equation,wrong equation,id,cluster
+x + b = - aa,x = aa - b,10,43
+x - b = aa,x = aa - b,27,43
+x + b = a,x - b = a,34,43
+x + b = aa,x = aa - bb,36,43
+x + b = aa,aa - b = aax,51,43
+x + b = aa,aa - b = ax,52,43
+x + b = aa,aa - b = ax,55,43
+x + b = aa,x = a - bb,64,43
+x - b = a,x = a - b,87,43
+x + b = - a,x = a - b,178,43
+x + b = - a,x = a - b,179,43
+- x + bb = aa,x - bb = aa,299,43
+- x + bbb = - aaa,x - bbb = aa,315,43
+x + b = aa,x = aa - b,345,43
+x - b = aa,x = aa - b,399,43
+x - b = a,x = a - b,400,43
+x + b = aa,x = a - bb,407,43
+x + b = a,x - b = a,409,43
+x - b = aa,x = aa - b,410,43
+x + b = a,x = a - b,416,43
+x + b = aa,a - bb = x,418,43
+x + bb = aa,aa - bb = x,425,43
+x - b = a,x = a - b,431,43
+x - b = a,x = a - b,739,43
+x - b = a,x = a - b,740,43
+x + b = a,x = a - b,847,43
+x + b = a,x = a - b,848,43
+x - b = - aa,x = aa - b,863,43
+x + b = aa,x = a - bb,921,43
+x + b = aa,x = a - b,926,43
+ax - bb = aa,ax = aa - bb,985,43
+x + bb = aa,x = aa - bb,1034,43
+x + b = aa,a - bb = x,1039,43
+x + b = a,x = a - b,1088,43
+
+
+Cluster 67:
+previous equation,wrong equation,id,cluster
+x - b = - aa,x = - aa - b,15,67
+x - bb = - aa,x = - aa - bb,18,67
+x - b = - aa,x = - aa - b,25,67
+x + bb = aa,x = - aa - bb,28,67
+x - b = - aa,x = - aa - b,341,67
+x + b = - aa,x = - a - bb,419,67
+x - bb = - aa,x = - aa - bb,429,67
+x - b = - aa,x = - aa - b,861,67
+x - bb = - aa,x = - aa - bb,868,67
+x - b = - aa,x = - a - bb,943,67
+- ax + bb = - aaa,ax = - aaa - bb,974,67
+
+
+Cluster 59:
+previous equation,wrong equation,id,cluster
+x + b = aa,x - b = aa - b,37,59
+x + b = aa,x - b = aa - b,168,59
+x + b = aa,x - b = aa - b,169,59
+x + b = aa,x - b = aa - b,789,59
+
+
+Cluster 10:
+previous equation,wrong equation,id,cluster
+x + b = a,x + b - c = a + b - c,40,10
+
+
+Cluster 15:
+previous equation,wrong equation,id,cluster
+x + bb = aa,x + bb = aa - bb,43,15
+x + b = aa,x + b = aa - b,81,15
+x + b = aa,x + b = aa - b,170,15
+x + bb = aa,x + bb = aa - bb,174,15
+x + bb = aa,x + bb = aa - bb,175,15
+x + bb = aa,x + bb = aa - bb,176,15
+x - b = a,x - b = a + b,197,15
+x + bb = aa,x + bb = aa - bb,522,15
+aax + bb = aax - bb,zx + z = aax - bbb,697,15
+ax + b = x + bb,ax - x = a + bb,765,15
+ax + b = ax + b,ax + bx = a - b,766,15
+ax + b = ax + bb,ax + bx = aa - b,772,15
+ax + b = ax + bb,ax + bx = aa - b,775,15
+ax + b = ax + bb,ax + bx = aa - b,776,15
+ax + b = ax + bb,ax + bx = aa - b,777,15
+ax + b = ax + bb,ax + bx = aa - b,778,15
+ax + b = ax + bb,ax + bx = aa - b,779,15
+ax + b = ax + bb,ax + bx = aa - b,780,15
+ax + b = ax + bb,ax - bx = a + bb,804,15
+ax + b = x + bb,ax + x = aa - b,814,15
+ax + b = x + bb,ax + x = aa - b,815,15
+( ax - b ) / ( c ) = a + x,ax - b = a + x,947,15
+
+
+Cluster 12:
+previous equation,wrong equation,id,cluster
+x - b = aa,x - b + c = aa - b,53,12
+x + b = a,x + b - c = a - b,61,12
+x - b = aa,x - b + c = aa - b,85,12
+x - b = a,x - b + c = a - b,96,12
+x + b = aa,x + b - c = aa - b,158,12
+x + b = aa,x + b - c = aa - b,159,12
+x + b = aa,x + b - c = aa - b,160,12
+x + b = aa,x + b - c = aa - b,161,12
+x + b = aa,x + b - c = aa - b,162,12
+x + b = aa,x + b - c = aa - b,163,12
+x + b = aa,x + b - c = aa - b,164,12
+x + b = aa,x + b - c = aa - b,165,12
+x + b = aa,x + b - c = aa - b,166,12
+x + b = aa,x + b - c = aa - b,167,12
+x + b = aa,x + b - c = aa - bb,185,12
+x - b = a,x - b + c = a - b,194,12
+x + b = aa,x + b - c = aa - b,243,12
+x - b = aa,x - b + c = aa - b,245,12
+x - b = a,x - b + c = a - b,247,12
+x + b = aa,x + b - c = a - b,284,12
+x + b = a,x + b - c = a - b,414,12
+x + b = - aa,x + b - c = aa - b,523,12
+x + b = - aa,x + b - c = aa - b,531,12
+a + b + cx + dd + ex = z,ax + bx = a - b - cc,834,12
+x + b = a,x + b - c = a - b,850,12
+x + b = a,x + b - c = a - b,851,12
+( ax ) / ( b ) + ( x ) / ( d ) - ( ex ) / ( ff ) = ( x ) / ( b ) - c,aax + bx - cx = ax - b,1081,12
+( x + b ) / ( c ) = aax - b * ( c + ddx ) / ( e ),ax + b = aa - b - ccx,1090,12
+( x + b ) / ( c ) = aax - b * ( c + ddx ) / ( e ),ax + b = aax - b - ccx,1091,12
+a * ( z + cx ) - d * ( ex + f ) = ax - - ( bbb ) / ( cc ) - z * ( eeex - ffff ),ax - bbx + c = ax - bb,1121,12
+
+
+Cluster 58:
+previous equation,wrong equation,id,cluster
+x + b = - a,x + b - c = - a - b,54,58
+x + b = - aa,x + b - c = - aa - bb,103,58
+x + b = - aa,x + b - c = - aa - bb,251,58
+
+
+Cluster 9:
+previous equation,wrong equation,id,cluster
+- x + bb = - aa,- x + bb - cc = aa - bb,56,9
+aax + bb = aax - bb,aax - bbx + cc - dd = - aaa,691,9
+ax - bb = - x + bb,ax - b = - x + bb - c,982,9
+
+
+Cluster 3:
+previous equation,wrong equation,id,cluster
+x = - ( aa ) / ( bb ),x = ( aa ) / ( b ),58,3
+( x ) / ( bb ) = - aa,x = ( aa ) / ( bb ),60,3
+- ( x ) / ( b ) = aa,x = ( aa ) / ( b ),62,3
+x = a + b,x = ( aaa ) / ( b ),290,3
+( x ) / ( bb ) + c = a,( x ) / ( bb ) = a,291,3
+ax = - aa,ax = ( aa ) / ( b ),342,3
+x = ( a ) / ( bb ),x = ( z ) / ( b ),464,3
+x = ( a ) / ( bb ),x = ( z ) / ( b ),465,3
+x = ( a ) / ( b ),x = ( z ) / ( b ),467,3
+x = ( aa ) / ( - b ),x = ( aa ) / ( b ),469,3
+x = - ( aa ) / ( b ),x = ( aa ) / ( b ),478,3
+x = - ( a ) / ( - bb ),x = ( a ) / ( b ),479,3
+ax - b = aa,x = ( aa ) / ( b ),486,3
+ax - b = aa,x = ( aa ) / ( b ),487,3
+( x ) / ( b ) = - aa,x = ( aa ) / ( b ),489,3
+ax = - aa,x = ( aa ) / ( b ),511,3
+aa + bx - ( - cx + d - ex ) = x + ( b - cx ),x = ( a ) / ( b ),554,3
+x = - ( aa ) / ( bb ),x = ( aa ) / ( b ),560,3
+- aax = - a,x = ( a ) / ( b ),561,3
+a - ( - b - cx - dd - ex ) = z,x = ( aa ) / ( bb ),577,3
+x = - ( aa ) / ( bb ),x = ( a ) / ( b ),578,3
+aax - bx = - ax + b + c - dd,x = ( aa ) / ( b ),590,3
+aax = aa,x = ( aa ) / ( bb ),591,3
+x = ( aa ) / ( bb ),x = ( a ) / ( b ),592,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),598,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),601,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),602,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),610,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),611,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),612,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),613,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),614,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),615,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),616,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),617,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),618,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),619,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),620,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),621,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),622,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),623,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),624,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),625,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),626,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),627,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),628,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),629,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),630,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),631,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),632,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),633,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),634,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),635,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),636,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),637,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),638,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),639,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),640,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),641,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),642,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),643,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),644,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),645,3
+- ax = a,x = ( a ) / ( b ),646,3
+- ax + bb = - aaa,x = ( aa ) / ( b ),655,3
+zx = zx,x = ( aa ) / ( bb ),702,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),708,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),709,3
+zx = zx,x = ( a ) / ( b ),710,3
+zx = zx,x = ( a ) / ( b ),711,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),712,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),713,3
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = ( a ) / ( b ),714,3
+- ax = aa,x = ( aa ) / ( b ),719,3
+x = ( aa ) / ( bb ),x = ( a ) / ( b ),741,3
+( ax + bb ) / ( ccc ) = ( x ) / ( bbb ),x = ( a ) / ( b ),750,3
+ax - bx = a - b,x = ( a ) / ( b ),769,3
+- ax = - a + b,x = ( aa ) / ( b ),808,3
+ax = a - b,x = ( a ) / ( b ),812,3
+- ax - bb = aa,x = ( a ) / ( b ),818,3
+- ax - bb = aa,x = ( a ) / ( b ),820,3
+x = ( aa ) / ( - b ),x = ( aa ) / ( b ),827,3
+aax = - aa,x = ( aa ) / ( bb ),837,3
+x = - ( aa ) / ( bb ),x = ( aa ) / ( b ),896,3
+- aax = aaa,x = ( aaa ) / ( bb ),915,3
+ax - b + cx + d = ax + bb,x = ( aa ) / ( b ),916,3
+ax - b + cx + d = ax + bb,x = ( aa ) / ( b ),917,3
+ax + b - ( cx - d ) + ( - ex - f ) = - ( - ax + bb ),x = ( a ) / ( b ),959,3
+x = ( aaa ) / ( b ),x = ( aa ) / ( b ),983,3
+- aax = aaa,x = ( aaa ) / ( bb ),997,3
+- aax = aaa,x = ( aaa ) / ( bb ),998,3
+- aax = aaa,x = ( aaa ) / ( bb ),1001,3
+- aax = aaa,x = ( aaa ) / ( bb ),1002,3
+x = ( aaa ) / ( b ),x = ( aa ) / ( b ),1013,3
+aax = a,x = ( a ) / ( b ),1016,3
+aax = a,x = ( aa ) / ( b ),1017,3
+aax = aa,x = ( a ) / ( b ),1025,3
+( aax ) / ( bb ) = ( a ) / ( bb ),x = ( a ) / ( bb ),1058,3
+( aax ) / ( bb ) = ( a ) / ( bb ),x = ( a ) / ( bb ),1059,3
+( aax ) / ( bb ) = ( a ) / ( bb ),x = ( a ) / ( bb ),1060,3
+( aax ) / ( bb ) = ( a ) / ( bb ),x = ( a ) / ( bb ),1073,3
+( aax ) / ( bb ) = ( a ) / ( bb ),x = ( a ) / ( bb ),1074,3
+( aax ) / ( bb ) = ( a ) / ( bb ),x = ( a ) / ( bb ),1075,3
+aax = a,x = ( aa ) / ( b ),1080,3
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),( a ) / ( b ) = x,1097,3
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),( a ) / ( b ) = x,1098,3
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),( a ) / ( bb ) = x,1099,3
+x = ( aa ) / ( b ),x = ( aa ) / ( b ),1113,3
+x = ( aa ) / ( b ),x = ( a ) / ( b ),1159,3
+
+
+Cluster 2:
+previous equation,wrong equation,id,cluster
+x + b = - aa,x + b - c = - a,70,2
+x + bb = - aa,x + bb = - aa - bb,79,2
+x + b = - a,x + b = - a - b,93,2
+aax + bb = aax - bb,aax - bbx + cc = - aa,688,2
+x - bb = - aa,x + bb - cc = - aa,875,2
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),x - bb = - x + bb,1101,2
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),x - bb = - x + bb,1103,2
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),ax - bb = - x + bb,1104,2
+
+
+Cluster 54:
+previous equation,wrong equation,id,cluster
+x + b = - aa,x + b - c = - aa + b,71,54
+x + b = - aa,x + b - c = - aa + b,73,54
+x + b = - aa,x + b - c = - aa + b,74,54
+x + b = - aa,x + b - c = - aa + b,75,54
+x + b = - a,x + b - c = - a + b,86,54
+x + b = - a,x + b - c = - a + b,89,54
+x - b = - aa,x - b + c = - aa + bb,99,54
+x - bb = - aa,x - bb + cc = - aa + bb,148,54
+x - bb = - aa,x - bb + cc = - aa + bb,150,54
+x + b = - aa,x + b - c = - aa + b,171,54
+x + b = - a,x + b - c = - a + b,188,54
+x + b = - a,x + b - c = - a + b,189,54
+x + b = - a,x + b - c = - a + b,190,54
+x + b = - a,x + b - c = - a + b,191,54
+x + b = - a,x + b - c = - a + b,250,54
+x + b = - aa,x + b - c = - aa + b,262,54
+x + b = - aa,x + b - c = - aa + b,263,54
+x + bb = - aa,x + bb - cc = - aa + bb,285,54
+x + bb = - aa,x + bb - cc = - aa + bb,533,54
+x + b = - a,x + b - c = - a + b,733,54
+( x ) / ( bb ) - c + ( dx ) / ( e ) = - a * ( x - c ),x - bb + ccx = - aaax + bbb,1082,54
+
+
+Cluster 60:
+previous equation,wrong equation,id,cluster
+x + bb = aa,x + bb - cc = aa,76,60
+x + b = aa,x + b - c = aa,186,60
+x + b = aa,x + b - c = aa,244,60
+x - b = aa,x + b - c = aa,261,60
+x + b = aa,x + b - c = aa,404,60
+x + b = aa,x + b - c = aa,405,60
+x + b = a,x + b - c = a,408,60
+x + b = - aa,x + b - c = aa,421,60
+x + b = aa,x + b - c = aa,453,60
+x + b = aa,x + b - c = aa,515,60
+x + b = aa,x + b - c = aa,748,60
+x + b - cx + d = - ax + b - cx + d,aax = a + b - c,783,60
+ax - ( bb - ccx ) = aaa,ax - bb + ccx = aaa,832,60
+x + b = a,x + b - c = a,844,60
+x + b = a,x + b - c = a,845,60
+x + b = aa,x + b - c = aa,994,60
+a * ( x - c ) + d = aa,ax - bb + c = aa,1027,60
+x + b = aa,x + b - c = aa,1142,60
+
+
+Cluster 42:
+previous equation,wrong equation,id,cluster
+x - b = a,x - b + c = a + b,77,42
+x + b = a,x + b - c = a + b,78,42
+x - b = - aa,x - b + c = aa + b,154,42
+x - b = aa,x - b + c = aa + bb,193,42
+x - b = - aa,x - b + c = aa + b,258,42
+x + b = aa,x + b - c = aa + b,454,42
+
+
+Cluster 73:
+previous equation,wrong equation,id,cluster
+- x - bbb = - aaa,aaa - x - ccc = - aaa - bbb,242,73
+
+
+Cluster 82:
+previous equation,wrong equation,id,cluster
+- x = - aa,- x - b = - aa * - b,255,82
+
+
+Cluster 34:
+previous equation,wrong equation,id,cluster
+x - b = aa,x + b + c = aa,260,34
+a - ( - b - cx - dd - ex ) = z,aa + bx + cx = z,576,34
+ax + b = ax + bb,ax = ax + bb + c,984,34
+
+
+Cluster 13:
+previous equation,wrong equation,id,cluster
+a * ( x - c ) - ( dx ) / ( e ) = a * ( x - c ) / ( d ),ax - b - ( cx ) / ( d ) = ( ax - bb  ) / ( c ),278,13
+
+
+Cluster 37:
+previous equation,wrong equation,id,cluster
+a * ( x - c ) - ( dx ) / ( e ) = a * ( x - c ) / ( d ),ax - b - ( cx ) / ( d ) = ( ax ) / ( b ) * ( - c ) / ( d ),279,37
+
+
+Cluster 64:
+previous equation,wrong equation,id,cluster
+a * ( x - c ) - ( dx ) / ( e ) = a * ( x - c ) / ( d ),ax - b - ( cx ) / ( d ) = a * ( x - c  ) / ( d ),280,64
+
+
+Cluster 81:
+previous equation,wrong equation,id,cluster
+( x ) / ( b ) + c = a,x = a - b * c,287,81
+
+
+Cluster 77:
+previous equation,wrong equation,id,cluster
+x = a - b,x ^ b = aa,289,77
+ax = aa,x = aa % b,894,77
+( x ) / ( b ) = a,x ^ b = aaa,1044,77
+
+
+Cluster 63:
+previous equation,wrong equation,id,cluster
+x - bb = - aa,( ax ) / ( b ) - ( cc ) / ( dd ) = - aa * ( b ) / ( c ),300,63
+
+
+Cluster 85:
+previous equation,wrong equation,id,cluster
+x = - aa + bb,( ax ) / ( b ) = - aa,301,85
+- ( x ) / ( b ) = aa,- x = ( aa ) / ( b ),484,85
+( - aax ) / ( b ) = ( z ) / ( bbbb ),- aax = ( a ) / ( bbbb ),1071,85
+
+
+Cluster 79:
+previous equation,wrong equation,id,cluster
+a = - ( aa ) / ( x ),a = - ( aa ) / ( b ) * x,302,79
+
+
+Cluster 84:
+previous equation,wrong equation,id,cluster
+a * ( b * x ) = - aa,a * bx = - aa,303,84
+a * ( b * x ) = - aa,a * x = - aa,305,84
+a * ( b * x ) = - aa,a * x = - aa,306,84
+( - aax ) / ( b ) = ( z ) / ( bbbb ),- aax = aaaa * b,1070,84
+
+
+Cluster 40:
+previous equation,wrong equation,id,cluster
+a * ( b * x ) = - aa,a + bx = - aa,304,40
+- x + b = aa,- x = aa + b,441,40
+
+
+Cluster 69:
+previous equation,wrong equation,id,cluster
+x + bb = - aa,x = a * b,312,69
+x = aa - b,x = aa * b,1032,69
+x + bb = aa,x = aa * b,1046,69
+
+
+Cluster 41:
+previous equation,wrong equation,id,cluster
+ax = aa,x = a * b + c,333,41
+ax = aa,x = a * b + c,334,41
+x + ( bx + c ) = aa,ax * bx + cx = aa,556,41
+( ax ) / ( b ) = ( x + bb ) / ( ccc ),aaax = a * ( x + c  ),987,41
+- aa = - x,x = a * b + c,1040,41
+- aa = - x,x = a * b + c,1041,41
+- aa = - x,x = a * b + c,1042,41
+
+
+Cluster 23:
+previous equation,wrong equation,id,cluster
+- x + b = a,- x = - a,370,23
+- x = - aaa + bbb,- x = - aaa,380,23
+- x = - ( aa ) / ( b ),- x = - aa,541,23
+aax - b - cx = ax - b - cc,- x = - aa,546,23
+- x = - aa + bb,- x = - aa,563,23
+ax + b - cx + d - ex - f = ax - bb,- ax = - aa,586,23
+ax + b - cx + d - ex - f = ax - bb,- ax = - aa,587,23
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),- aax = - aa,669,23
+aax + bb = aax - bb,- aax = - aa,696,23
+- ( x ) / ( bb ) = - aa,- x = - aaa,901,23
+- ax + bb = - aaa,- ax = - aaa,977,23
+aax - bx - cx = - a - bb + c,- aax = - aa,1000,23
+- aa = - x,- x = - aa,1043,23
+
+
+Cluster 89:
+previous equation,wrong equation,id,cluster
+- x + bb = - aa,- x = - aa - bb,375,89
+
+
+Cluster 74:
+previous equation,wrong equation,id,cluster
+- x = aa,a * - x = aa,435,74
+ax = ax - b * cccc,ax = - a * bbbb,1007,74
+
+
+Cluster 50:
+previous equation,wrong equation,id,cluster
+- x = aa,- a * - x = aa,436,50
+- x = aa,- a * - x = aa,437,50
+
+
+Cluster 14:
+previous equation,wrong equation,id,cluster
+- ( x ) / ( b ) = aa,x = ( aa ) / ( - b ),485,14
+- x = - ( aaa ) / ( bb ),x = - ( aaa ) / ( b ),542,14
+- x = - ( aaa ) / ( bb ),x = - ( aaa ) / ( b ),543,14
+ax - ( bb - ccx ) = aaa,x = - ( a ) / ( b ),553,14
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = - ( aa ) / ( bb ),671,14
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = - ( a ) / ( b ),707,14
+- ax = - aa,x = - ( aa ) / ( b ),720,14
+- ax = aa,x = ( aa ) / ( - bx ),758,14
+x = - ( aaa ) / ( bb ),x = - ( aaa ) / ( b ),918,14
+x = - ( aaa ) / ( bb ),x = ( aaa ) / ( - bb ),919,14
+x = - ( aa ) / ( bb ),x = - ( a ) / ( b ),1021,14
+x = a * ( bx + c ),x = - ( a ) / ( bb ),1064,14
+
+
+Cluster 31:
+previous equation,wrong equation,id,cluster
+x - bb = aa,x - bb - c = a - bb,532,31
+a * ( z + cx ) - d * ( ex + f ) = ax - - ( bbb ) / ( cc ) - z * ( eeex - ffff ),ax - bbx - c = ax - bb,1122,31
+a * ( z + cx ) - d * ( ex + f ) = ax - - ( bbb ) / ( cc ) - z * ( eeex - ffff ),ax - bbx - c = ax - bb,1123,31
+
+
+Cluster 27:
+previous equation,wrong equation,id,cluster
+- x + bb = - aa,- x = aa - bb,536,27
+ax + b - cx + d - ex - f = ax - bb,- ax = aa - b,588,27
+
+
+Cluster 6:
+previous equation,wrong equation,id,cluster
+x + ( bx + c ) = aa,ax ^ b + cx = aa,555,6
+
+
+Cluster 71:
+previous equation,wrong equation,id,cluster
+ax - ( b + cx ) = aa,ax - b - cx = aa,557,71
+ax - ( b + cx ) = aa,ax - b - cx = aa,829,71
+ax - ( b + cx ) = aa,ax - b - cx = aa,830,71
+ax - ( b + cx ) = aa,ax - b - cx = aa,831,71
+ax + b - cx + d - ex - f = ax - bb,- ax - b = ax bb,1024,71
+
+
+Cluster 68:
+previous equation,wrong equation,id,cluster
+- x = - aa + bb,- x = - aa + bb,562,68
+- ax + bb = - aaa,- ax = - aaa + bb,972,68
+- ax + bb = - aaa,- ax = - aaa + bb,973,68
+
+
+Cluster 17:
+previous equation,wrong equation,id,cluster
+aa + bx - ( - cx + d - ex ) = x + ( b - cx ),aa + bx + cx + d + ex = x + b - cx,564,17
+
+
+Cluster 48:
+previous equation,wrong equation,id,cluster
+a - ( - b - cx - dd - ex ) = z,a + b + cx + dd + ex = z,567,48
+a - ( - b - cx - dd - ex ) = z,a + b + cx + dd + ex = z,568,48
+a - ( - b - cx - dd - ex ) = z,a + b + cx + dd + ex = z,569,48
+a - ( - b - cx - dd - ex ) = z,a + b + cx + dd + ex = z,571,48
+a - ( - b - cx - dd - ex ) = z,a + b + cx + dd + ex = z,575,48
+( x + bb ) - ( - x - dd ) = z,x + x + cc + x + ee = z,675,48
+
+
+Cluster 88:
+previous equation,wrong equation,id,cluster
+a - ( - b - cx - dd - ex ) = z,a + bx + cc + dx = z,570,88
+( x + bb ) - ( - x - dd ) = z,x + bb + x + dd = z,673,88
+( x + bb ) - ( - x - dd ) = z,x + bb + x + dd = z,674,88
+( x + bb ) - ( - x - dd ) = z,x + bbx + x + dd = z,703,88
+( x + bb ) - ( - x - dd ) = z,x + bb + x + dd = z,704,88
+
+
+Cluster 91:
+previous equation,wrong equation,id,cluster
+a - ( - b - cx - dd - ex ) = z,a - b + cx + dd + ex = z,572,91
+
+
+Cluster 45:
+previous equation,wrong equation,id,cluster
+a - ( - b - cx - dd - ex ) = z,a - b * ( c - dx - ee - fx  ) = z,573,45
+
+
+Cluster 22:
+previous equation,wrong equation,id,cluster
+a - ( - b - cx - dd - ex ) = z,a - b * ( - c - dx - ee - fx  ) = z,574,22
+
+
+Cluster 70:
+previous equation,wrong equation,id,cluster
+ax + b - ( cx + d ) = - ( ax - b ) + ( - c - x ),ax + b - cx + d = ax + b - c + x,582,70
+( aaax + bbb ) - ( ccc + dddx ) = ( ax + b ) - cx - ( - dd + eeex ),aaax + bbbx + cx - dddx = a + bb + ccc - ddd,762,70
+
+
+Cluster 7:
+previous equation,wrong equation,id,cluster
+ax + b - ( cx + d ) = - ( ax - b ) + ( - c - x ),ax + b - cx - d = ax + b - c + x,583,7
+
+
+Cluster 0:
+previous equation,wrong equation,id,cluster
+ax + b - ( cx + d ) = - ( ax - b ) + ( - c - x ),ax + b - cx - d = - ax + b - c + x,584,0
+
+
+Cluster 44:
+previous equation,wrong equation,id,cluster
+ax + b - cx - d = - ax + b - c - x,ax - bx + cx + x = a - b - c,585,44
+
+
+Cluster 87:
+previous equation,wrong equation,id,cluster
+ax + b - cx + d - ex - f = ax - bb,- ax = - a + b - c - dd,589,87
+
+
+Cluster 80:
+previous equation,wrong equation,id,cluster
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bb - cc + ddx = - aa + bbx + ccx - dd,593,80
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bb - cc + ddx = - aa + bbx + ccx - dd,605,80
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bb - cc + ddx = ( - aa + bbx  ) + ccx - dd,678,80
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bb - cc + ddx = - aa + bbx + ccx - dd,679,80
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bb - cc + ddx = ( aa + bbx  ) - ( - ccx + dd  ),680,80
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bb - cc + ddx = aa + bbx - ( - ccx + dd  ),681,80
+
+
+Cluster 78:
+previous equation,wrong equation,id,cluster
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax - bb + ccx = - aa + bbx + ccx - dd,599,78
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bbbbx - cc = - aa + bbx + ccx - dd,606,78
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bbbbx - cc = - aa + bbx + ccx - dd,607,78
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bbbbx - cc = - aa + bbx + ccx - dd,608,78
+
+
+Cluster 51:
+previous equation,wrong equation,id,cluster
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bb - cc + ddx = - aa + bbx + ccx + dd,600,51
+
+
+Cluster 5:
+previous equation,wrong equation,id,cluster
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),( aax + bb  ) - cc + ddx = ( - aa + bbx  ) - ( - ccx + dd  ),603,5
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bb - ccx + ddx = - aa + bbx - ( - ccx + dd  ),682,5
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bb - cc + ddx = - aa + bbx - ( - ccx + dd  ),683,5
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bb - cc + ddx = ( - aa + bbx  ) - ( - ccx + dd  ),684,5
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),( aax + bb  ) - cc + ddx = ( - aa + bbx  ) - ( - ccx + dd  ),685,5
+
+
+Cluster 36:
+previous equation,wrong equation,id,cluster
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bb - ( cc - ddx  ) = ( - aa + bbx  ) - ( - ccx + dd  ),604,36
+
+
+Cluster 75:
+previous equation,wrong equation,id,cluster
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),aax + bb * ( - cc ) + ddx = - aa + bbx + ccx - dd,609,75
+
+
+Cluster 83:
+previous equation,wrong equation,id,cluster
+aa - ( - bb + cx ) = - ( ax + b ) - cc,aa + bb - cx = ax - bb - cc,647,83
+aa - ( - bb + cx ) = - ( ax + b ) - cc,aa + bb - cx = ax - b - cc,648,83
+aa - ( - bb + cx ) = - ( ax + b ) - cc,aa + ( bb - cx  ) = ax - b - cc,649,83
+aax + bb = aax - bb,aax + bb - cc = aax - bb - cc,698,83
+aax + bb = aax - bb,aax + bb - ccx = aax - bb - ccx,699,83
+
+
+Cluster 25:
+previous equation,wrong equation,id,cluster
+aax + bb + ccx - dd = aax - bb - cx + d,- aa - bb + c = aax,662,25
+ax - b = - x + bb,ax = - a - x + cc,1130,25
+ax - b = - x + bb,ax = - a - x + cc,1131,25
+
+
+Cluster 52:
+previous equation,wrong equation,id,cluster
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = - ( aa ) / ( - bbx ),667,52
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = - ( aa ) / ( - bb ),668,52
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),x = - ( aa ) / ( - bb ),672,52
+
+
+Cluster 11:
+previous equation,wrong equation,id,cluster
+( x + b ) - ( - x - d ) = ax - ( bx + c ),x + b + x + d = ax - bx + c,676,11
+( x + b ) - ( - x - d ) = ax - ( bx + c ),x + b + x + d = ax - bx + c,677,11
+( x + b ) - ( - x - d ) = ax - ( bx + c ),x + b + x + d = ax - bx + c,686,11
+
+
+Cluster 1:
+previous equation,wrong equation,id,cluster
+aax + bb = aax - bb,aax - bbx = - aa - bb,687,1
+aax + bb = aax - bb,aax - bbx = - aa - bb,689,1
+aax + bb = aax - bb,aax - bb = - aa - bb,694,1
+aax + bb = aax - bb,aax - bbx = - aa - bb,695,1
+ax - bb + c - dx = aa - bx,- a - bx = aa - bx,1054,1
+ax - bb + c - dx = aa - bx,- a - bx = aa - bx,1055,1
+
+
+Cluster 29:
+previous equation,wrong equation,id,cluster
+aax + bb = aax - bb,aax - bbx + cc - dd = - aa - bb,690,29
+
+
+Cluster 26:
+previous equation,wrong equation,id,cluster
+aax + bb = aax - bb,zx + z = aa + bbb,692,26
+aax + bb = aax - bb,z + z = aax + bbb,693,26
+ax + b = x + bb,ax + x = a + bb,764,26
+ax + b = ax + bb,ax + bx = aa + b,773,26
+ax + b = ax + bb,ax + bx = aa + b,774,26
+ax + b = x + bb,ax + x = aa + b,816,26
+
+
+Cluster 8:
+previous equation,wrong equation,id,cluster
+( aax + bb ) - ( cc - ddx ) = ( - aa + bbx ) - ( - ccx + dd ),- x = - ( a ) / ( b ),715,8
+
+
+Cluster 32:
+previous equation,wrong equation,id,cluster
+- x = aa,- x = aa * - b,717,32
+- x = a - b,- x = a * - b,1164,32
+
+
+Cluster 56:
+previous equation,wrong equation,id,cluster
+( aaax + bbb ) - ( ccc + dddx ) = ( ax + b ) - cx - ( - dd + eeex ),aaax + bbbx + cx + dddx = a + bb + ccc - ddd,763,56
+
+
+Cluster 38:
+previous equation,wrong equation,id,cluster
+ax + b = ax + bb,ax + bx = - a + bb,803,38
+ax - b = - x + bb,ax + x = - a + bb,1129,38
+
+
+Cluster 49:
+previous equation,wrong equation,id,cluster
+- ax + bb = ax - b,- ax + bx = - aa - b,805,49
+
+
+Cluster 35:
+previous equation,wrong equation,id,cluster
+aa + bx + cx - d + ex = x + b - cx,ax + bx + cx - x + ex = a - bb,833,35
+
+
+Cluster 47:
+previous equation,wrong equation,id,cluster
+( x + bb ) / ( cc ) = ( aa ) / ( bb ),x + ( bb ) / ( cc ) = a,840,47
+x = aa * ( bx + c ) / ( d ),x = ( ax + b  ) / ( cc ),1063,47
+( ax ) / ( bb ) = ( aax + bb ) / ( ccc ),ax = aax + ( bb ) / ( cc ),1067,47
+
+
+Cluster 16:
+previous equation,wrong equation,id,cluster
+aa + bx + cx - d + ex = x + b - cx,ax + bx + cx - x + ex = a - bb - c,949,16
+
+
+Cluster 18:
+previous equation,wrong equation,id,cluster
+- ax + bb = - aaa,- ax + bb - cc = - aaa - bb,979,18
+
+
+Cluster 61:
+previous equation,wrong equation,id,cluster
+( x ) / ( b ) = aa * ( x + c ) / ( ddd ),( x ) / ( b ) = ( x + b  ) / ( c ),988,61
+
+
+Cluster 92:
+previous equation,wrong equation,id,cluster
+( - x + b ) / ( c ) = ( ax ) / ( bb ),aa * ( - x + c  ) = aax,992,92
+( - x + b ) / ( c ) = ( ax ) / ( bb ),aa * ( - x + c  ) = aax,993,92
+
+
+Cluster 19:
+previous equation,wrong equation,id,cluster
+( aax ) / ( bb ) = x - bbb,x - bbbb = ( a ) / ( b ),1006,19
+
+
+Cluster 21:
+previous equation,wrong equation,id,cluster
+ax + b - cx + d - ex - f = ax - bb,ax - b = ax bb,1023,21
+
+
+Cluster 33:
+previous equation,wrong equation,id,cluster
+aa - ( b ) / ( c ) + x = aaa + bbx,a * bb - c + dx = aaaaa + bbbbx,1030,33
+
+
+Cluster 65:
+previous equation,wrong equation,id,cluster
+( a ) / ( b ) = ( x ) / ( bb ),( a ) / ( b ) = ( x ) / ( bb ),1031,65
+
+
+Cluster 57:
+previous equation,wrong equation,id,cluster
+( x - a ) / ( b ) + ( c - dx ) / ( f ) = ( a - x ) / ( b ),a * ( x - b ) / ( cc ) + dd * ( e - fx ) / ( gg ) = a - ( x ) / ( b ),1052,57
+( x - a ) / ( b ) + ( c - dx ) / ( f ) = ( a - x ) / ( b ),a * ( x - b ) / ( cc ) + d * ( e - fx ) / ( gg ) = a - ( x ) / ( b ),1053,57
+
+
+Cluster 28:
+previous equation,wrong equation,id,cluster
+( x ) / ( bb ) = ( ax + b ) / ( c ),( x ) / ( bb ) = aa * ( bx + c  ),1061,28
+
+
+Cluster 24:
+previous equation,wrong equation,id,cluster
+( x ) / ( bb ) = ( ax + b ) / ( c ),( x ) / ( bb ) = aa * ( bx + c  ) / ( d ),1062,24
+
+
+Cluster 46:
+previous equation,wrong equation,id,cluster
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),( x - bb  ) / ( cc ) = - x + ( bb ) / ( cc ),1100,46
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),( x ) / ( bb ) - c = ( - x + bb  ) / ( cc ),1102,46
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),( x ) / ( bb ) - c = ( - x + bb  ) / ( cc ),1107,46
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),( x ) / ( bb ) - c = ( - x + bbb  ) / ( cc ),1117,46
+
+
+Cluster 76:
+previous equation,wrong equation,id,cluster
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),( x ) / ( bbb ) - ( c ) / ( d ) = - ( x ) / ( bbb ) + cc,1105,76
+
+
+Cluster 72:
+previous equation,wrong equation,id,cluster
+( x ) / ( bb ) - ( ccc ) / ( ddd ) = ( - x + bb ) / ( cc ),( x ) / ( bbb ) - ( c ) / ( d ) = - ( x ) / ( bbb ) + ( c ) / ( dd ),1106,72
+
+
+Cluster 66:
+previous equation,wrong equation,id,cluster
+( - ax + bbb ) / ( cc ) - dddx = - aaaa + ( bbbx - cccx + dd ) / ( e ),- ax + bbb - cc * ddd = - aa * bbbb + c * ( dddx - eeex + ff ),1118,66
+
+
+Cluster 30:
+previous equation,wrong equation,id,cluster
+( - ax + bbb ) / ( cc ) - dddx = - aaaa + ( bbbx - cccx + dd ) / ( e ),( - ax + bbb  ) / ( cc ) - ddd = - aaaa + ( bbbx + cc  ) / ( d ),1119,30
+
+
+Cluster 4:
+previous equation,wrong equation,id,cluster
+( - ax + bbb ) / ( cc ) - dddx = - aaaa + ( bbbx + cc ) / ( d ),- ax + bbb - cc * dddx = - aaaa + b * ( cccx + dd  ),1120,4
+
+
+Cluster 62:
+previous equation,wrong equation,id,cluster
+aax - b - cx = ax - b - cc,aax - bx = ax - b - cc - d,1132,62
+
+
+Cluster 20:
+previous equation,wrong equation,id,cluster
+( - ax + bb ) / ( c ) = ( aaax ) / ( b ) + ( cx ) / ( dd ) - ( e ) / ( ff ),- ( ax ) / ( bb ) = ( aaax ) / ( b ) - ( c ) / ( dd ) + ( ex + ff ) / ( g ),1138,20
+( a ) / ( b ) - cccc - ( dx ) / ( e ) = - a * ( - bb * c ) + x,- ( ax ) / ( bb ) = ( aaax ) / ( b ) - ( c ) / ( dd ) + ( ex + ff ) / ( g ),1139,20
+
+
+Cluster 53:
+previous equation,wrong equation,id,cluster
+( aax - bx ) / ( cx ) = ( ax + bbb ) / ( cc ),a - ( b ) / ( c ) = ( ax + bbb  ) / ( cc ),1140,53
+
+
