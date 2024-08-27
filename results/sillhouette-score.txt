@@ -1,0 +1,12 @@
+KModes Previous - Silhouette Score: 0.9760479041916168
+KModes Wrong - Silhouette Score: 0.9632164242942686
+
+
+BKMeans Previous - Silhouette Score: 0.9760478876633908
+BKMeans Wrong - Silhouette Score: 0.9632164132655501
+
+
+DBSCAN Previous - Silhouette Score: 0.9582681522005675
+DBSCAN Wrong - Silhouette Score: 0.9392371231653901
+
+

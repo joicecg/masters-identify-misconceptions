@@ -111,3 +111,8 @@ silhouette_wrong = evaluate_clustering(X_wrong, clusters_wrong)
 
 print(f"DBSCAN Previous - Silhouette Score: {silhouette_prev}")
 print(f"DBSCAN Wrong - Silhouette Score: {silhouette_wrong}")
+
+with open("results/sillhouette-score.txt", 'a', encoding='utf-8') as file:
+    file.write(f"DBSCAN Previous - Silhouette Score: {silhouette_prev}\n")
+    file.write(f"DBSCAN Wrong - Silhouette Score: {silhouette_wrong}\n")
+    file.write("\n\n")
