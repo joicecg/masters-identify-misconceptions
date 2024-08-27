@@ -16,7 +16,6 @@ def extract_features_from_tree(left_tree, right_tree):
     features = {
         'total_nodes': 0,
         'operator_count': {},
-        'numeric_count': 0,
         'variable_count': 0,
         'depth': 0
     }
@@ -26,9 +25,7 @@ def extract_features_from_tree(left_tree, right_tree):
             return
         features['depth'] = max(features['depth'], depth)
         features['total_nodes'] += 1
-        if node.value.isdigit():
-            features['numeric_count'] += 1
-        elif node.value.isalpha():
+        if node.value.isalpha():
             features['variable_count'] += 1
         else:
             if node.value not in features['operator_count']:
@@ -80,11 +77,11 @@ X_previous = scaler.fit_transform(X_previous)
 X_wrong = scaler.transform(X_wrong)
 
 # Apply DBSCAN clustering
-dbscan_previous = DBSCAN(eps=0.05, min_samples=3)
+dbscan_previous = DBSCAN(eps=0.3, min_samples=2)
 clusters_previous = dbscan_previous.fit_predict(X_previous)
 previous['cluster'] = clusters_previous
 
-dbscan_wrong = DBSCAN(eps=0.05, min_samples=3)
+dbscan_wrong = DBSCAN(eps=0.3, min_samples=2)
 clusters_wrong = dbscan_wrong.fit_predict(X_wrong)
 wrong['cluster'] = clusters_wrong
 
