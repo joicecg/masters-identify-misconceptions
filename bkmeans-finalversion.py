@@ -115,3 +115,8 @@ silhouette_wrong = evaluate_clustering(X_wrong, clusters_wrong)
 
 print(f"BKMeans Previous - Silhouette Score: {silhouette_prev}")
 print(f"BKMeans Wrong - Silhouette Score: {silhouette_wrong}")
+
+with open("results/sillhouette-score.txt", 'a', encoding='utf-8') as file:
+    file.write(f"BKMeans Previous - Silhouette Score: {silhouette_prev}\n")
+    file.write(f"BKMeans Wrong - Silhouette Score: {silhouette_wrong}\n")
+    file.write("\n\n")
